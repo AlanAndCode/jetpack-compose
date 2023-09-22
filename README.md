@@ -1,2 +1,2 @@
 # jetpack-compose
-Criei este repositório para treinar compose com alguns aplicativos feitos em jetpack compose
+I created this repository to train compose with some applications made in jetpack compose
